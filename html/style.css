@@ -40,4 +40,7 @@
       width: 50%;
       left: 30%;
       }
+#thisDoesNothing{
+  display:none;
+}
  </style>
